@@ -1,0 +1,11 @@
+var a = 1;
+var b = 2.2;
+var c = 5000;
+var d = 900000;
+var e = 111222333444;
+var IsHavingFun = false;
+var IsDifficult = true;
+var LetterA = "a";
+var word = "banana";
+var sentence = "I ate breakfast";
+var sentence1 = "The code in the computer is so hard to understand. It is like magic. If I keep studying maybe one day I'll know";
