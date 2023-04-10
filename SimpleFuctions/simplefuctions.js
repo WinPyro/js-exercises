@@ -11,7 +11,6 @@ console.log(returnString("AidaiIsSimp"))
 function returnTrue(){
     return true;
 }
-
 function returnFalse(){
     return false;
 }

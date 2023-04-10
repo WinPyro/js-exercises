@@ -19,7 +19,7 @@ const exponent=(num1 , num2)=> num1**num2;
 
 //Instructions: Make a function named"combineStrings" that takes two arguments, both strings. It shouldreturn a string that is both arguments combined.
 
-const combineStrings=(text1 , text2)=> `${num1}${num2}`;
+const combineStrings=(text1 , text2)=> `${text1}${text2}`;
 
 //Instructions: Make a function named "combineArrays" that takes two arguments, both arrays. It should return an array with the contents of the first, then second array within it.
 
